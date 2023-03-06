@@ -1,7 +1,5 @@
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
-https://github.com/frost0807/coding-test-study.git
-C:\Users\emily\PycharmProjects\CodingTest\codingtest_study
 
 # TypeError: Object of type datetime is not JSON serializable
 def solution(today, terms, privacies):
